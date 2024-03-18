@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.estmenu {	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 36px;
+	color: #010101;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+.estmenuc {	color: #0033FF;
+	font-weight: bold;
+}
+body {
+	background-color: #3C9;
+	background-image: url(../Imagenes/fondo-textura-acuarela-pastel_1083-168.jpg);
+}
+</style>
+</head>
+
+<body>
+<table width="1092" border="1">
+  <tr>
+    <td colspan="2"><img src="../Imagenes/imagencolor.jpg" width="900" height="200" usemap="#Map" border="0" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><span class="estmenu"><span class="estmenuc"><a href="index.html">Inicio</a></span>│<span class="estmenuc"><a href="Servicios.html">Servicios</a></span>│<a href="Mascotas.html"> <span class="estmenuc">Mascotas</span></a><span class="estmenuc"><a href="index.html"></a></span> │<span class="estmenuc"><a href="Articulos.html">Artículos</a></span></span></td>
+  </tr>
+  <tr>
+    <td width="208" valign="top"><table width="200" border="0">
+      <tr>
+        <td><!-- TemplateBeginEditable name="editmenu" -->&nbsp;<!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+    <td width="868" valign="top"><!-- TemplateBeginRepeat name="Rep1" --><!-- TemplateBeginEditable name="Editcont" -->
+      <p>TITULO<br />
+        POR FAVOR ESCRIBIR EL TEXTO QUE QUIERA COLOCAR EN SU  PAGUINA WEB</p>
+      <p>PUEDE INSERTAR IMÁGENES</p>
+      <p>O ELTEXTO QUE USTED DESEE</p>
+      <p>&nbsp;</p>
+    <!-- TemplateEndEditable --><!-- TemplateEndRepeat --></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center">dirección:  calle Luis cordero y alianza centro comercial el puesto del sol local nro.65<br />
+      teléfono:  2102854- 096584235 correo: <a href="mailto:MASCOTITASFELICES@GMAIL.COM">mascotitasfelices@gmail.com</a><br />
+    2021-2022  derechos reservados</p></td>
+  </tr>
+</table>
+
+<p class="estmenu">&nbsp;</p>
+<div align="center"></div>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="188,51,678,161" href="index.html" />
+  <area shape="circle" coords="114,102,80" href="Servicios.html" />
+  <area shape="circle" coords="776,99,81" href="Mascotas.html" />
+</map>
+</body>
+</html>
